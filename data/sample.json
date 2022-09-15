@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Accounting assistant",
+        "reference": "testing_localjson_connector_1",
+        "summary": "Accounting assistant Job",
+        "created_at": "2022-01-22T11:54:49",
+        "location": {
+            "text": "Paris France"
+        },
+        "sections": [],
+        "tags": [
+            {
+                "name": "Category",
+                "value": "Services"
+            }
+        ]
+    },
+    {
+        "name": "Software engineer",
+        "reference": "testing_localjson_connector_2",
+        "summary": "Software engineer Job",
+        "created_at": "2022-03-22T11:54:49",
+        "location": {
+            "text": "Tokyo Japan"
+        },
+        "sections": [],
+        "tags": [
+            {
+                "name": "Category",
+                "value": "IT"
+            }
+        ]
+    },
+    {
+        "name": "Truck driver",
+        "reference": "testing_localjson_connector_3",
+        "summary": "Truck driver Job",
+        "created_at": "2022-03-01T11:54:49",
+        "location": {
+            "text": "Sao Paulo Brazil"
+        },
+        "sections": [],
+        "tags": [
+            {
+                "name": "Category",
+                "value": "Services"
+            }
+        ]
+    },
+    {
+        "name": "Salesperson in sweets shop",
+        "reference": "testing_localjson_connector_4",
+        "summary": "Salesperson in sweets shop Job",
+        "created_at": "2022-02-25T11:54:49",
+        "location": {
+            "text": "Beijing China"
+        },
+        "sections": [],
+        "tags": [
+            {
+                "name": "Category",
+                "value": "Retail"
+            }
+        ]
+    },
+    {
+        "name": "Teacher assistant",
+        "reference": "testing_localjson_connector_5",
+        "summary": "Teacher assistant Job",
+        "created_at": "2021-03-22T11:54:49",
+        "location": {
+            "text": "Turin Italy"
+        },
+        "sections": [],
+        "tags": [
+            {
+                "name": "Category",
+                "value": "Services"
+            }
+        ]
+    },
+    {
+        "name": "Ranch farmer",
+        "reference": "testing_localjson_connector_6",
+        "summary": "Ranch farmer Job",
+        "created_at": "2022-03-10T11:54:49",
+        "location": {
+            "text": "Seatle USA"
+        },
+        "sections": [],
+        "tags": [
+            {
+                "name": "Category",
+                "value": "Argiculture"
+            }
+        ]
+    },
+    {
+        "name": "Babysitter",
+        "reference": "testing_localjson_connector_7",
+        "summary": "Babysitter Job",
+        "created_at": "2022-02-29T11:54:49",
+        "location": {
+            "text": "London United Kingdom"
+        },
+        "sections": [],
+        "tags": [
+            {
+                "name": "Category",
+                "value": "Home Services"
+            }
+        ]
+    }
+]

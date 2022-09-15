@@ -1,12 +1,14 @@
-from hrflow_connectors.connectors.localjson.connector import LocalJSON
 from hrflow_connectors.connectors.smartrecruiters import SmartRecruiters
 from hrflow_connectors.connectors.talentsoft import TalentSoft
+from hrflow_connectors.connectors.localjson.connector import LocalJSON
+from hrflow_connectors.connectors.sqliteorders.connector import SQLiteOrders
+
 from hrflow_connectors.core import backend
 from hrflow_connectors.core.connector import hrflow_connectors_manifest  # noqa
 from hrflow_connectors.core.documentation import generate_docs  # noqa
 
 __version__ = "2.0.0"
-__CONNECTORS__ = [SmartRecruiters, TalentSoft, LocalJSON]
+__CONNECTORS__ = [SmartRecruiters, TalentSoft, LocalJSON, SQLiteOrders]
 
 # This makes sure that connector are in module namespace
 # and that the automatic workflow code generation should work
